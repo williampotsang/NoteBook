@@ -1,4 +1,5 @@
 [程式人生 > > PSTools工具使用方法](https://www.796t.com/content/1545698596.html)
+[PSTools工具使用方法](https://www.twblogs.net/a/5c21e798bd9eee16b4a762e8)
 [psTool Suit使用方法](https://itman.pixnet.net/blog/post/28315565)
 
 ## PsTool PsExec 常用遠端指令
