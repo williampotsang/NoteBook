@@ -1,3 +1,5 @@
+[程式人生 > > PSTools工具使用方法](https://www.796t.com/content/1545698596.html)
+
 ## PsTool PsExec 常用遠端指令
 
 ### 遠端變更電腦名稱.bat
