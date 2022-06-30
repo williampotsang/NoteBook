@@ -9,3 +9,5 @@
 Google OR-Tools
 
 [使用Python進行資料分析](https://ithelp.ithome.com.tw/m/users/20107514/ironman/1399)
+
+[新手眼中的資安](https://ithelp.ithome.com.tw/m/users/20130067/ironman/3450)
