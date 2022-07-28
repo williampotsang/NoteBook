@@ -10,6 +10,8 @@ https://blog.johnwu.cc/article/how-to-install-elasticsearch-logstash-and-kibana-
 程式人生 elk使用grok解析日誌
 https://www.796t.com/article.php?id=141214
 
+https://github.com/elastic/logstash/blob/v1.4.2/patterns/grok-patterns
+
 cambium consulting our favorite elasticsearch feature
 [Our Favorite Elasticsearch Features: Part 1 - Explicit Mapping](https://cambium.consulting/articles/2018/2/20/mappings-aliases-and-index-templates-three-of-our-favorite-elasticsearch-features/)
 [Our Favorite Elasticsearch Features: Part 2 - Index Aliases](https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases/)
