@@ -2,16 +2,43 @@
 ELK
 https://mmx362003.gitbooks.io/elk-stack-guide/content/quick-start/getting-files.html
 https://ithelp.ithome.com.tw/users/20130033/ironman/3399
+https://www.elastic.co/guide/index.html
 
 https://blog.johnwu.cc/categories/elk/
 https://blog.johnwu.cc/article/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-centos-red-hat.html
 
+程式人生 elk使用grok解析日誌
+https://www.796t.com/article.php?id=141214
+
+
 it幫幫忙 其實我真的沒想過 kubernetes
 https://ithelp.ithome.com.tw/users/20120317/ironman/2442?page=2
 https://ithelp.ithome.com.tw/users/20120327/ironman/2444?page=3
+
+利用docker架設gitlab
+https://medium.com/appworks-school/%E7%B0%A1%E6%98%93%E6%95%99%E5%AD%B8-%E5%88%A9%E7%94%A8-docker-%E6%9E%B6%E8%A8%AD-gitlab-b392f75584dd
 
 
 kafka
 深度剖析 kafka請求是如何處理的
 https://developer.51cto.com/article/702235.html
 https://kafka.apache.org/
+
+kafka入門介紹「詳細教程」
+https://www.gushiciku.cn/pl/grKx/zh-tw
+基於zookeeper實現高可用 gushiciku
+https://www.gushiciku.cn/pl/a1LH/zh-tw
+zookeeper在阿里巴巴的服務 gushiciku
+https://www.gushiciku.cn/pl/ayKU/zh-tw
+
+VirtualBox
+
+
+Linux指令
+https://blog.gtwang.org/linux/sudo-su-command-tutorial-examples/
+
+it幫幫忙 從架站到前端
+https://ithelp.ithome.com.tw/articles/10259252
+
+mdn web doc 學習該如何開發web
+https://developer.mozilla.org/zh-TW/docs/Learn
