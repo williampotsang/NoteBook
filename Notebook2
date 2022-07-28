@@ -10,6 +10,18 @@ https://blog.johnwu.cc/article/how-to-install-elasticsearch-logstash-and-kibana-
 程式人生 elk使用grok解析日誌
 https://www.796t.com/article.php?id=141214
 
+cambium consulting our favorite elasticsearch feature
+[Our Favorite Elasticsearch Features: Part 1 - Explicit Mapping](https://cambium.consulting/articles/2018/2/20/mappings-aliases-and-index-templates-three-of-our-favorite-elasticsearch-features/)
+[Our Favorite Elasticsearch Features: Part 2 - Index Aliases](https://cambium.consulting/articles/2018/2/22/our-favorite-elasticsearch-features-part-2-index-aliases/)
+[Our Favorite Elasticsearch Features: Part 3 - Index Templates](https://cambium.consulting/articles/2018/3/7/our-favorite-elasticsearch-features-part-3-index-templates/)
+
+
+
+elasticsearch工具cerebro的安裝 使用
+https://cloud.tencent.com/developer/article/1939272
+https://www.it145.com/9/97727.html
+
+
 
 it幫幫忙 其實我真的沒想過 kubernetes
 https://ithelp.ithome.com.tw/users/20120317/ironman/2442?page=2
@@ -58,7 +70,7 @@ https://developer.mozilla.org/zh-TW/docs/Learn
 程式人生 運籌系列 or tool
 https://www.796t.com/content/1542998346.html
 
-
+base64encode
 
 
 
